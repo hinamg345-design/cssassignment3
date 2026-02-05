@@ -1,0 +1,18 @@
+.mobile-collage img,.logo-transition img,.mobile3 img{
+width:300px;
+height: 380px;}
+.logo-transition,.mobile-collage,.mobile3{
+padding: 10px;}
+.counting{
+    padding:5px;
+    font-size:10px;
+}
+.contact{
+    flex-direction: column;
+ 
+}
+.contact .form, .contact .contact-us{
+    width: 70%;
+    margin: 0 auto;
+    
+}

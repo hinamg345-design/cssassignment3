@@ -1,0 +1,34 @@
+.navlink{display: none;}  
+.menubar{
+    display:block;}
+.home,.section1,.section2{
+display: inline-block;
+}
+.logo-transition,.mobile-collage,.mobile3{
+padding: 30px;}
+.counting{
+    padding: 50px;
+}
+.text3 h1,.text3 p{
+    font-size:20px ;
+}
+.section4 h1{
+    font-size: 30px;
+}
+.section4 p{
+    padding: 10px;
+    font-size: 20px;
+}
+    .contact{
+        padding: 0;
+        
+    }
+    .contact .form .button{
+        max-width: 150px;
+    }
+    .contact .form, .contact .contact-us{
+        margin: 0;
+    }
+    .contact h2{
+        word-spacing: normal;
+    }
